@@ -5,6 +5,5 @@ You can try these examples by running them on mybinder.org or by cloning the rep
 
 ## Examples
 
-- A simple decorator that prints the function arguments first:
-  [print_decorator]()
+- A simple decorator that prints the function arguments first: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrebell/2020-02-23-python-dictionaries.git/master?filepath=print_decorator.ipynb)
 
